@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/StupidStudio/stupid-scrolldirection/issues"
   },
-  "homepage": "https://github.com/StupidStudio/stupid-scrolldirection#readme"
+  "homepage": "https://github.com/StupidStudio/stupid-scrolldirection#readme",
+  "dependencies": {
+    "stupid-callctrl": "^1.1.0",
+    "stupid-event": "^2.0.0"
+  }
 }

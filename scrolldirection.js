@@ -20,11 +20,9 @@ function ScrollDirection(opts){
 
 	function update(){
 		if(window.pageYOffset <= 0){
-			// event.trigger('direction/down');
 			scrollDown();
 			return;
 		}else if(window.pageYOffset >= (document.documentElement.scrollHeight - window.innerHeight)){
-			// event.trigger('direction/up');
 			scrollUp();
 			return;
 		}
