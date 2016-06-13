@@ -1,0 +1,19 @@
+{
+  "name": "stupid-scrolldirection",
+  "version": "0.0.0",
+  "description": "",
+  "main": "scrolldirection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StupidStudio/stupid-scrolldirection.git"
+  },
+  "author": "David Adalberth Andersen <david@stupid-studio.com> (http://stupid-studio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StupidStudio/stupid-scrolldirection/issues"
+  },
+  "homepage": "https://github.com/StupidStudio/stupid-scrolldirection#readme"
+}
